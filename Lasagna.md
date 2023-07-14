@@ -30,10 +30,10 @@ While there are a few steps to this lasagna recipe, it's easy to make and has so
     1/2 tsp salt
 
 ### Layering
-12 Lasagne Noodles
-2.5 cups Mozarella
-1/4 cup Parmesan
-Spices
+    12 Lasagne Noodles
+    2.5 cups Mozarella
+    1/4 cup Parmesan
+    Spices
 
 ## Instructions
 Homemade lasagna may have a few steps, but each step is easy and I assure you it's worth the time; the perfect Italian meal! This is a really easy lasagna recipe.
