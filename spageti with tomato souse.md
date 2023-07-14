@@ -1,13 +1,13 @@
 #spageti with tomato souse
 
-## inggridents
-**spageti**
+## ingredients
+**spaghetti**
 **tomato**
 *onion*
-*oile*
+*oil*
 *chili*
 ###how to make it
 *make souse with tomato*
-*boli water and add spageti*
-**mix all toghter**
+*boil water and add spaghetti*
+**mix all together**
 
