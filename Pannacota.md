@@ -1,4 +1,4 @@
-![Panna cota](https://www.chefkoch.de/rezepte/990988544059/Panna-Cotta.html)
+![Panna cota](https://img.chefkoch-cdn.de/rezepte/990988544059/bilder/1501946/crop-960x720/panna-cotta.jpg)
 
 
 ## Ingredients ##
