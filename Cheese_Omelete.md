@@ -23,4 +23,4 @@
  > :+1: Tips
 Omelettes don’t always need to be folded in half with the filling inside, you can leave the omelette open and sprinkle over your favourite ingredients before finishing it under a hot grill until it’s bubbling and delicious.
 
-[For more delicious recipes click on the link](https://pages.github.com/).
+[For more delicious recipes click on the link](https://github.com/fbw-p23-e05/cook-book/blob/main/Lasagna.md)
