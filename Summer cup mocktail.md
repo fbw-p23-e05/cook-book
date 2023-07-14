@@ -10,7 +10,7 @@
 * few frozen red berries <br>
 * 20ml clear, sparkling lemonade <br>
 * ice <br>
-Optional: more frozen berries, chopped fruits, cucumber slice, mint, citrus
+* Optional: more frozen berries, chopped fruits, cucumber slice, mint, citrus
 
 ## Method
 
