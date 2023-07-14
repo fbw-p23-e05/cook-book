@@ -24,7 +24,7 @@
 - [ ] [https://github.com/octo-org/octo-repo/issues/740](https://thegreekfoodie.com/greek-spaghetti-red-sauce/)https://thegreekfoodie.com/greek-spaghetti-red-sauce/
 
 
-### important massagge
+### Important massagge
 1. do can buy tomato souse and do not make it by yourself:tomato: 
    - buy bio spaghetti:ramen:
      - you can design by :olive: ,:corn:
