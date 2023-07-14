@@ -10,7 +10,7 @@
 * olive oil
 * salt
 
-_-step 1_
+_-step 1_  
 boil water
 _-step 2_
 input **_noodles_** inside the boiling pot
