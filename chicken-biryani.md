@@ -1,17 +1,17 @@
 # **Ingredients**
 
-300g [basmati rice](https://www.bbcgoodfood.com/glossary/rice-glossary) 
-25g [butter](https://www.bbcgoodfood.com/glossary/butter-glossary)
-1 [large onion](https://www.bbcgoodfood.com/glossary/onion-glossary), finally sliced
-1 bay leaf
-3 cardamom pods
-[Small cinnamon stick](https://www.bbcgoodfood.com/glossary/cinnamon-glossary)
-1 tsp [turmeric](https://www.bbcgoodfood.com/glossary/turmeric-glossary)
-4 [Skinless chicken breasts](https://www.bbcgoodfood.com/glossary/chicken-glossary), cut into large chunks
-4 tbsp balti curry paste
+300g [basmati rice](https://www.bbcgoodfood.com/glossary/rice-glossary). 
+25g [butter](https://www.bbcgoodfood.com/glossary/butter-glossary).
+1 [large onion](https://www.bbcgoodfood.com/glossary/onion-glossary), finally sliced.
+1 bay leaf.
+3 cardamom pods.
+[Small cinnamon stick](https://www.bbcgoodfood.com/glossary/cinnamon-glossary).
+1 tsp [turmeric](https://www.bbcgoodfood.com/glossary/turmeric-glossary).
+4 [Skinless chicken breasts](https://www.bbcgoodfood.com/glossary/chicken-glossary), cut into large chunks.
+4 tbsp balti curry paste.
 85g raisins
-850ml chicken stock
-30g coriander, ½ chopped, ½ leaves picked and 2 tbsp toasted flaked almonds, to serve
+850ml chicken stock.
+30g coriander, ½ chopped, ½ leaves picked and 2 tbsp toasted flaked almonds, to serve.
 
 # **Method**
 
