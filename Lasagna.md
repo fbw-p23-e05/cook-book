@@ -9,31 +9,31 @@ While there are a few steps to this lasagna recipe, it's easy to make and has so
 ![Ingredients](https://github.com/fbw-p23-e05/cook-book/assets/139347219/231e4647-50ab-474b-ac5f-f50773a3c9f9)
 
 ### Cheese Filling
-    2 cups Ricotta Cheese
-    1 beaten egg
-    1/4 cup fresh chopped Parsley
-    1/4 cup Parmesan cheese
-    1.5 cups Mozarella
-    1/4 tsp salt
+ - [ ] 2 cups Ricotta Cheese
+ - [ ] 1 beaten egg
+ - [ ] 1/4 cup fresh chopped Parsley
+ - [ ] 1/4 cup Parmesan cheese
+ - [ ] 1.5 cups Mozarella
+ - [ ] 1/4 tsp salt
 
 ### Meat
-    220g Italian Sausage
-    220g Lean Ground Beef
-    1 diced Onion
-    2 cloves minced garlic
+- [ ] 220g Italian Sausage
+- [ ] 220g Lean Ground Beef
+- [ ] 1 diced Onion
+- [ ] 2 cloves minced garlic
 
 ### Sauce
-    1000g Pasta Sauce
-    2 Tbsp Tomato Paste
-    1 tsp Italian seasoning
-    1/4 tsp Black pepper
-    1/2 tsp salt
+- [ ] 1000g Pasta Sauce
+- [ ] 2 Tbsp Tomato Paste
+- [ ] 1 tsp Italian seasoning
+- [ ] 1/4 tsp Black pepper
+- [ ] 1/2 tsp salt
 
 ### Layering
-    12 Lasagne Noodles
-    2.5 cups Mozarella
-    1/4 cup Parmesan
-    Spices
+- [ ] 12 Lasagne Noodles
+- [ ] 2.5 cups Mozarella
+- [ ] 1/4 cup Parmesan
+- [ ] Spices
 
 ## Instructions
 Homemade lasagna may have a few steps, but each step is easy and I assure you it's worth the time; the perfect Italian meal! This is a really easy lasagna recipe.
