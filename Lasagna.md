@@ -4,7 +4,7 @@
 
 ![top](https://github.com/fbw-p23-e05/cook-book/assets/139347219/c3134fe2-b72b-4cf7-92c6-a8af59546c67)
 
-While there are a few steps to this lasagna recipe, it's easy to make and has so much flavor. This dish can be made ahead of time and freezes well either before or after baking!
+> While there are a few steps to this lasagna recipe, it's easy to make and has so much flavor. This dish can be made ahead of time and freezes well either before or after baking!
 
 ---
 
@@ -42,7 +42,7 @@ While there are a few steps to this lasagna recipe, it's easy to make and has so
 ---
 
 ## <ins>Instructions</ins>
-Homemade lasagna may have a few steps, but each step is easy and I assure you it's worth the time; the perfect Italian meal! This is a really easy lasagna recipe.
+> Homemade lasagna may have a few steps, but each step is easy and I assure you it's worth the time; the perfect Italian meal! This is a really easy lasagna recipe.
 
 ### Fillings Preparation
 
