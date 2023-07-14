@@ -29,7 +29,7 @@ serve and eat!
 
 
 
-[other recipes](www.myweb.com)
+[other recipes]([www.myweb.com](https://www.organizedisland.com/pasta-with-tomato-sauce/))
 [other good recipes][another]
 
 [another]:www.another.com
