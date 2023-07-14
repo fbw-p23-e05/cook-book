@@ -1,10 +1,10 @@
-# Lasagna Recipe
+# <ins>Lasagna Recipe</ins>
 
 ![top](https://github.com/fbw-p23-e05/cook-book/assets/139347219/c3134fe2-b72b-4cf7-92c6-a8af59546c67)
 
 While there are a few steps to this lasagna recipe, it's easy to make and has so much flavor. This dish can be made ahead of time and freezes well either before or after baking!
 
-## Ingredients
+## <ins>Ingredients</ins>
 
 ![Ingredients](https://github.com/fbw-p23-e05/cook-book/assets/139347219/231e4647-50ab-474b-ac5f-f50773a3c9f9)
 
@@ -35,7 +35,7 @@ While there are a few steps to this lasagna recipe, it's easy to make and has so
 - [ ] 1/4 cup Parmesan
 - [ ] Spices
 
-## Instructions
+## <ins>Instructions</ins>
 Homemade lasagna may have a few steps, but each step is easy and I assure you it's worth the time; the perfect Italian meal! This is a really easy lasagna recipe.
 
 ### Fillings Preparation
@@ -54,5 +54,7 @@ Homemade lasagna may have a few steps, but each step is easy and I assure you it
 - Rest for at least 15 minutes before cutting.
 
 ![Lasagna](https://github.com/fbw-p23-e05/cook-book/assets/139347219/55b73e07-8c14-41cb-bd41-d0f9845eff8c)
+
+
 
 > Source: https://www.spendwithpennies.com/easy-homemade-lasagna/
