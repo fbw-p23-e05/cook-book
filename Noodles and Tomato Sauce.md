@@ -11,21 +11,21 @@
 * salt
 
 _-step 1_  
-boil water
-_-step 2_
-input **_noodles_** inside the boiling pot
-_-step 3_
-after 10 minutes turn heat off
-_-step 4_
-drain the ater of the **_noodles_**
-_-step 5_
-put back **_noodles_** in pot
-_-step 6_
-add **_olive oil_**, **_tomato sauce_** and **_salt_**
-_-step 7_
-stir it with care
-_-step 8_
-serve and eat!
+boil water  
+_-step 2_  
+input **_noodles_** inside the boiling pot  
+_-step 3_  
+after 10 minutes turn heat off  
+_-step 4_  
+drain the ater of the **_noodles_**  
+_-step 5_  
+put back **_noodles_** in pot  
+_-step 6_  
+add **_olive oil_**, **_tomato sauce_** and **_salt_**  
+_-step 7_  
+stir it with care  
+_-step 8_  
+serve and eat!  
 
 
 
