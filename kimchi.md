@@ -1,6 +1,6 @@
 <picture>
 (https://www.koreanbapsang.com/wp-content/uploads/2019/11/DSC_0831-e1645400234347.jpg)
-</oicture>
+</picture>
 
 **Step 1: Gather the Ingredients**
 
