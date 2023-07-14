@@ -16,8 +16,8 @@
 - ⅓ cup pitted Kalamata olives
 - ⅓ cup fresh mint leaves
 
-## Instructions
+# Instructions
 **Make the dressing:** In a small bowl, whisk together the olive oil, vinegar, garlic, oregano, mustard, salt, and several grinds of pepper.
-_On a large platter, arrange the cucumber, green pepper, cherry tomatoes, feta cheese, red onions, and olives._ Drizzle with the dressing and very gently toss. Sprinkle with a few generous pinches of oregano and top with the mint leaves. Season to taste and serve.
+_On a large platter, arrange the cucumber, green pepper, cherry tomatoes, feta cheese, red onions, and olives. Drizzle with the dressing and very gently toss. Sprinkle with a few generous pinches of oregano and top with the mint leaves. Season to taste and serve._
 
 ![Salad](https://cdn.loveandlemons.com/wp-content/uploads/2019/07/greek-salad-2-580x756.jpg)
