@@ -45,7 +45,7 @@
 * Close the jar tightly and let it sit at room temperature for 1-2 days to initiate the fermentation process.
 * After this initial fermentation period, transfer the jar to the refrigerator to continue fermenting slowly. Kimchi can be consumed immediately, but the flavors will develop further with time.
 
-**Step 7:Enjoy!
+**Step 7:Enjoy!**
 
 * Kimchi can be enjoyed as a side dish, added to stir-fries, soups, or used as a topping for various dishes.
 * Remember to keep the jar tightly sealed and refrigerated to prolong its shelf life.
