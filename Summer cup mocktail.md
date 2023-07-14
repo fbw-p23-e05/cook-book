@@ -5,11 +5,11 @@
 
 ## Ingredients
 
-1cm thick slice of cucumber <br>
-1 sprig mint <br>
-few frozen red berries <br>
-120ml clear, sparkling lemonade <br>
-ice <br>
+* 1cm thick slice of cucumber <br>
+* 1 sprig mint <br>
+* few frozen red berries <br>
+* 20ml clear, sparkling lemonade <br>
+* ice <br>
 Optional: more frozen berries, chopped fruits, cucumber slice, mint, citrus
 
 ## Method
