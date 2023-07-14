@@ -1,3 +1,5 @@
+# **CHICKEN BIRYANI**
+
 # **Ingredients**
 
 300g [basmati rice](https://www.bbcgoodfood.com/glossary/rice-glossary). 
@@ -34,5 +36,6 @@ Place a tight-fitting lid on the pan and bring to a hard boil, then lower the he
 Turn off the heat and leave for 10 mins. Stir well, mixing through 15g chopped coriander. To serve, scatter over the leaves of the remaining 15g coriander and 2 tbsp toasted almonds.
 
 ![Chicken Biryani](https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-328452_12-d995182.jpg?quality=90&webp=true&resize=300,272)
+_Enjoy Your Chicken Biryani_
 
 For more information, please visit [BBC Good Food](https://www.bbcgoodfood.com/recipes/chicken-biryani) and [Swasthi's Recipes](https://www.indianhealthyrecipes.com/chicken-biryani-recipe/)
