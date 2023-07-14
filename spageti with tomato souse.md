@@ -11,12 +11,14 @@
 - *chili*
 - *salt*
 - *parmesan*
-- ## How to make it
-1. *make souse with tomato*
-1. *boil water*
-1. *add spaghetti to water until it is cooked*
+- ## How to make sous
+1. *cut all tomato*
+1. *put tomato in the blander*
+1. *add 1/2 soupspoon salt and garlic in souse and mix them*
+- ## How to make spaghetti
+1. *add spaghetti to boiled water*
 1. *cut the onions and fry them with oil*
-1. *add tomato souse and chili*
+1. *add tomato souse and chili to onion*
 
 
 - - [ ] mix all together :yum:
@@ -24,7 +26,7 @@
 - [ ] [https://github.com/octo-org/octo-repo/issues/740](https://thegreekfoodie.com/greek-spaghetti-red-sauce/)https://thegreekfoodie.com/greek-spaghetti-red-sauce/
 
 
-### Important massagge
+### Attention
 1. do can buy tomato souse and do not make it by yourself:tomato: 
    - buy bio spaghetti:ramen:
      - you can design by :olive: ,:corn:
